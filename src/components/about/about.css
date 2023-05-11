@@ -109,7 +109,11 @@
     }
 
   }
-
+ @media screen and (max-height:700px){
+    #about{
+        margin-top: 15rem;
+    }
+}
 
 
 
