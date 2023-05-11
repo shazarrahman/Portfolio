@@ -7,6 +7,7 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
+   position: relative;
 }
 :root{
     --color-bg:#1f1f38;
@@ -46,7 +47,7 @@ h5{
  font-weight: 500;
 }
 h1{
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 section{
     margin-top: 8rem;
