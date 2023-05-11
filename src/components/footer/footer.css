@@ -60,7 +60,11 @@ footer a{
          margin-bottom: 2.6rem;
      }
  }
-
+@media screen and (max-height:700px){
+    footer{
+        width:100%;
+    }
+}
 
 
 
