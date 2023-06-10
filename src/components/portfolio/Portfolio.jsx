@@ -17,7 +17,7 @@ const Portfolio = () => {
          </div>
          <h3>Digital Clock with gradient UI/UX</h3>
          <div className="portfolio__item-cta">
-         <a href="https://sharp-almeida-d476be.netlify.app/" className="btn btn-primary" target="_blank">Live Demo</a>
+         <a href="https://digital-clock-shazar.netlify.app/" className="btn btn-primary" target="_blank">Live Demo</a>
          </div>
        </article>
        <article className="portfolio__item">
